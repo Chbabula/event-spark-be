@@ -18,8 +18,6 @@ app.use(cors({
     origin: ['http://localhost:5173', 'https://event-spark-chi.vercel.app']
 })) 
 
-
-
 /**
  * DATABASE
  */
